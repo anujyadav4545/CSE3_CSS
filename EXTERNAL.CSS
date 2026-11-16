@@ -1,0 +1,24 @@
+p{
+    color:aquamarine;
+    /*background-color:blue;*/
+}
+
+.cs3{
+    color:green;
+}
+.abes{
+    color:red;
+}
+#ab{
+    color:brown;
+}
+H1{
+    text-align:center;
+    color:#ff3c00;
+    font-size: 2rem;
+}
+div{
+    padding: 20px 10px;
+    margin: 10px 20px 30px;
+    border: 2px solid red;
+}
